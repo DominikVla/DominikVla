@@ -6,8 +6,8 @@ Also a very sleepy person, tired a lot😴
 ### 🍵 Tea Adict!! 🍵
 
 ## known/Learning Programming Languages:
-- Python
-- JavaSript
+- Python 🐍
+- JavaSript 
 - HTML
 - PHP
 - CSS/Bootstrap
