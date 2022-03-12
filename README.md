@@ -5,14 +5,16 @@ I'm a college student currently doing an IT course. In final exam right now as a
 Also a very sleepy person, tired a lot😴
 ### 🍵 Tea Adict!! 🍵
 
-## known/Learning Programming Languages:
+## known/Learning Programming Languages 🧠:
 - Python 🐍
 - JavaSript 
 - HTML
 - PHP
 - CSS/Bootstrap
 
-## Languages I plan on learning:
+## Languages I plan on learning 📖:
 - C#
 - Lua
 - Java
+👁️👁️
+ 👄
