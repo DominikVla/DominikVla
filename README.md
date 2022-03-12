@@ -19,4 +19,4 @@ Also a very sleepy person, tired a lot😴
 
 Face:
 - 👁️👁️
--  👄
+- ⠀👄
