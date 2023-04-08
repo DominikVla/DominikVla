@@ -15,5 +15,5 @@ Finished college with a decent grade 😊
 
 ## Languages I plan on learning 📖:
 - C#
-- Lua
+- Swift
 - Java
