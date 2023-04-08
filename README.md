@@ -2,8 +2,7 @@
 # 👋 Hello, welcome to my GitHub Page! 👋
 
 ## About me:
-~~I'm a college student currently doing a T-Level course~~
-Finished college with a decent grade 😊
+19 year old programming random things atm. Currently developing Discord.JS bots and trying to learn how to make BepInEx plguins.
 ### 🍵 Tea Adict!! 🍵
 
 ## known/Learning Programming Languages 🧠:
