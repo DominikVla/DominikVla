@@ -7,11 +7,6 @@ Finished college with a decent grade 😊
 ### 🍵 Tea Adict!! 🍵
 
 ## known/Learning Programming Languages 🧠:
-- Python 🐍
-- JavaSript 
-- HTML
-- PHP
-- CSS/Bootstrap
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikVla&hide=CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages I plan on learning 📖:
