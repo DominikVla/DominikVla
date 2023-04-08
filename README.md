@@ -7,7 +7,7 @@ Finished college with a decent grade 😊
 ### 🍵 Tea Adict!! 🍵
 
 ## known/Learning Programming Languages 🧠:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikVla&hide=CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominikVla&hide=CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages I plan on learning 📖:
 - C#
