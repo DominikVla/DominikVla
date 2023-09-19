@@ -10,5 +10,5 @@
 
 ## Languages I plan on learning 📖:
 - C#
-- Swift
+- Go
 - Java
