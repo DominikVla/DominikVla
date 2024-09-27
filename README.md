@@ -2,7 +2,7 @@
 # 👋 Hello, welcome to my GitHub Page! 👋
 
 ## About me:
-20 year old programming random things atm. Currently developing Discord.JS bots and trying to learn how to make BepInEx plguins.
+20 year old attend uni now. Personal projects involve developing Discord.JS bots and trying to learn how to make BepInEx plguins.
 ### 🍵 Tea Adict!! 🍵
 
 ## known/Learning Programming Languages 🧠:
